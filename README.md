@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-👤 Recent BSc Computer Science Graduate
-🔭 I'm currently working on a Python Expense Program
-🌱 I'm currently learning AWS
+👤 Recent BSc Computer Science Graduate<br/>🔭 I'm currently working on a Python Expense Program<br/>🌱 I'm currently learning AWS
 
 
 ## 🌐 Socials:
