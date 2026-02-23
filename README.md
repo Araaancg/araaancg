@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 This is Me - Arancha
 
 👤 Recent BSc Computer Science Graduate<br/>🔭 I'm currently working on a Python Expense Program<br/>🌱 I'm currently learning AWS
 
