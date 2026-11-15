@@ -26,7 +26,7 @@ This profile is less of a CV and more of a workbench: what I'm building, what I'
 | [**float-forward**](https://github.com/Araaancg/float-forward) | A community platform that connects people affected by a disaster with volunteers and first responders. Inspired by the 2024 Valencia floods. My dissertation, shown at the Oxford Brookes Tech Show 2025. | TypeScript · Next.js · Node · MongoDB |
 | [**next-project-initiator**](https://github.com/Araaancg/next-project-initiator) | A Python GUI that scaffolds a whole React/Next project (folders, components, theme, icons). It turned a 3-hour setup into 15 minutes for my old team. | Python · Tkinter |
 | [**study-cards-v1**](https://github.com/Araaancg/study-cards-v1) | A flashcard app for revising terms, dates and vocabulary. | JavaScript |
-| [**tma-dont-let-ball-fall**](https://github.com/Araaancg/tma-dont-let-ball-fall) | Exactly what it says: don't let the ball fall. [Play →](https://tma-ball-game.vercel.app) | TypeScript · Next.js |
+| [**tma-dont-let-ball-fall**](https://github.com/Araaancg/tma-dont-let-ball-fall) | Exactly what it says: don't let the ball fall. | TypeScript · Next.js |
 
 **Data & algorithms**
 
