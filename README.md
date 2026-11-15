@@ -1,16 +1,61 @@
-# 💫 This is Me - Arancha
+# Hi, I'm Arancha 👋
 
-👤 Recent BSc Computer Science Graduate<br/>🔭 I'm currently working on a Python Expense Program<br/>🌱 I'm currently learning AWS
+I build things that make my life easier, and hopefully other people's too.
 
+I'm a software engineer in the UK. By day I work on desktop GUIs at **FlareBright**. The rest of the time I'm building **[Finder](https://finderproduct.co.uk)**, a platform I co-founded that helps people with disabilities find comic, game and hobby shops they can actually get around.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arancha-carpintero-guardiola/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carpinteroaranchag@gmail.com) 
+This profile is less of a CV and more of a workbench: what I'm building, what I'm learning, and the projects I've picked up along the way. If you want the polished version, it's on **[aranchacarpintero.com](https://www.aranchacarpintero.com)**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+---
 
-![](https://github-readme-stats.vercel.app/api?username=araaancg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=araaancg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=araaancg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔨 What I'm working on
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Finder**: growing our accessibility rating for shops, built from what disabled visitors tell us about their real visits. Every round of feedback changes what we build next.
+- **C++**: learning it properly for work, so expect more C++ around here (see [`cpp-101`](https://github.com/Araaancg/cpp-101)).
+- **[`spanish-101`](https://github.com/Araaancg/spanish-101)**: a small game for practising Spanish noun genders (*el* or *la*?). [Try it →](https://spanish-101.vercel.app)
+- **My portfolio**: a bilingual (EN/ES) Next.js site I keep redesigning more often than I'd like to admit.
+
+---
+
+### 🗂️ What you'll find here
+
+**Things I've built**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**float-forward**](https://github.com/Araaancg/float-forward) | A community platform that connects people affected by a disaster with volunteers and first responders. Inspired by the 2024 Valencia floods. My dissertation, shown at the Oxford Brookes Tech Show 2025. | TypeScript · Next.js · Node · MongoDB |
+| [**next-project-initiator**](https://github.com/Araaancg/next-project-initiator) | A Python GUI that scaffolds a whole React/Next project (folders, components, theme, icons). It turned a 3-hour setup into 15 minutes for my old team. | Python · Tkinter |
+| [**study-cards-v1**](https://github.com/Araaancg/study-cards-v1) | A flashcard app for revising terms, dates and vocabulary. | JavaScript |
+| [**tma-dont-let-ball-fall**](https://github.com/Araaancg/tma-dont-let-ball-fall) | Exactly what it says: don't let the ball fall. [Play →](https://tma-ball-game.vercel.app) | TypeScript · Next.js |
+
+**Data & algorithms**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**machine-learning-SAMUR**](https://github.com/Araaancg/machine-learning-SAMUR) | PCA and clustering on Madrid's emergency-service (SAMUR) call-out data, by district and incident type. | R |
+| [**route-optimization-using-graphs**](https://github.com/Araaancg/route-optimization-using-graphs) | DFS vs BFS: which one finds the faster route? | C++ |
+
+**Learning in public**
+
+Repos where I work through a language or topic from scratch. They're messy on purpose.
+
+- [`cpp-101`](https://github.com/Araaancg/cpp-101): pointers, references, memory, and the rest of the C++ basics
+- [`python-101`](https://github.com/Araaancg/python-101): small Python apps covering OOP, files and APIs
+- [`intro-to-python`](https://github.com/Araaancg/intro-to-python): from functions and exceptions to recursion, trees and algorithms
+- [`tic-tac-toe`](https://github.com/Araaancg/tic-tac-toe): a terminal game with a computer opponent at several difficulty levels
+
+> Most of my professional work lives in private repos, so the commit graph only tells part of the story.
+
+---
+
+### 🧰 What I usually reach for
+
+TypeScript · React · Next.js · Node.js · Python · MongoDB · MySQL · Figma, and these days more and more C++.
+
+---
+
+### 📫 Say hi
+
+I'm always happy to talk about software, accessibility, or whatever you're building.
+
+[Portfolio](https://www.aranchacarpintero.com) · [LinkedIn](https://www.linkedin.com/in/arancha-carpintero-guardiola/) · [Email](mailto:carpinteroaranchag@gmail.com)
